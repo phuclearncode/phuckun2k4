@@ -72,7 +72,7 @@ const UserList: React.FC = () => {
         <Table>
           <TableHead>
             <TableRow>
-              <TableCell>Full Name</TableCell>
+              <TableCell>FullName</TableCell>
               <TableCell>Email</TableCell>
               <TableCell>Address</TableCell>
               <TableCell>Date Of Birth</TableCell>
