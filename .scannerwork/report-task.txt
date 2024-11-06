@@ -1,0 +1,7 @@
+organization=phuclearncode
+projectKey=phuclearncode_phuckun2k4
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.57415
+dashboardUrl=https://sonarcloud.io/dashboard?id=phuclearncode_phuckun2k4
+ceTaskId=AZMAgcb88R1HV6hArLFh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZMAgcb88R1HV6hArLFh
